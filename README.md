@@ -1,0 +1,1 @@
+# The_Tech_Academy_Basic_SQL_Projects
